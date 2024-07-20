@@ -1,0 +1,49 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Javascript Book",
+      "price": 1000,
+      "author": "Ahmed Mohamed",
+      "desc": "Hello Javascript !"
+    },
+    {
+      "id": "2",
+      "title": "React Book",
+      "price": 1568,
+      "author": "John Doe",
+      "desc": "Hello React !"
+    },
+    {
+      "id": "3",
+      "title": "proper book name",
+      "price": 2478,
+      "author": "hi",
+      "desc": "Hello C"
+    },
+    {
+      "id": "6",
+      "title": "java textbook",
+      "price": 1249,
+      "author": "ahmed badra",
+      "desc": "this is about java guys!"
+    },
+    {
+      "id": "8",
+      "title": "how to hunt a tunnel",
+      "price": 1000,
+      "author": "ahmed badra",
+      "desc": "this is bullshit!"
+    },
+    {
+      "id": "7",
+      "title": "anything is defined",
+      "price": 450,
+      "author": "badra",
+      "desc": "this is bullshit to sell!"
+    }
+  ],
+  "stats": {
+    "total_count": 6
+  }
+}
